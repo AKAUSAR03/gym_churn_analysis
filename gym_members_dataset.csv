@@ -1,0 +1,151 @@
+Member_ID,Name,Age,Gender,Address,Phone_Number,Membership_Type,Join_Date,Last_Visit_Date,Favorite_Exercise,Avg_Workout_Duration_Min,Avg_Calories_Burned,Total_Weight_Lifted_kg,Visits_Per_Month,Churn
+1,,19.0,Male,"Street 171, City 39",032-51510359,Quarterly,2022-07-23,2022-11-03,Pull-ups,93,214.0,13995.0,18.0,No
+2,Shanza,19.0,Female,"Street 111, City 18",039-19243328,Monthly,2023-12-04,2024-02-14,Squats,37,436.0,4612.0,11.0,No
+3,Ubaidullah,52.0,Male,"Street 69, City 21",033-60221501,Quarterly,2024-09-13,2024-12-07,Bench Press,98,523.0,3124.0,4.0,Yes
+4,Mansoor Ahmed,52.0,Male,"Street 72, City 39",035-55527902,Monthly,2024-06-05,2025-02-24,Pull-ups,66,282.0,4586.0,24.0,No
+5,Hanzala,32.0,Male,"Street 6, City 12",038-93946322,Monthly,2022-06-15,2022-12-02,Bench Press,32,522.0,16353.0,18.0,No
+6,Arsalan Zafar,53.0,Male,"Street 15, City 27",035-95902365,Quarterly,2022-06-07,2022-09-12,Deadlift,102,250.0,4631.0,23.0,No
+7,Kumail,46.0,Male,"Street 35, City 1",039-95163386,Monthly,2023-05-14,2023-07-10,Squats,33,,4926.0,7.0,Yes
+8,Jahanzaib,36.0,Male,"Street 25, City 14",039-51007076,Monthly,2022-02-06,2022-05-06,Deadlift,112,722.0,18376.0,16.0,No
+9,M. Talha,41.0,Male,"Street 170, City 15",035-81198701,Quarterly,2022-08-25,2023-08-23,Squats,42,226.0,13622.0,22.0,No
+10,Ayesha,,Female,"Street 127, City 31",034-55245029,Monthly,2022-03-24,2022-06-26,Pull-ups,74,,2113.0,19.0,No
+11,Ammad,23.0,Male,"Street 165, City 47",035-72306131,Yearly,2022-06-09,2022-07-22,Bench Press,56,,5978.0,11.0,No
+12,Hammad Arif,22.0,Male,"Street 188, City 37",037-79862568,Quarterly,2022-10-10,2023-04-05,Deadlift,77,529.0,9532.0,5.0,Yes
+13,Eman,50.0,Female,"Street 130, City 8",039-37393173,Monthly,2024-01-20,2024-04-23,Squats,60,436.0,18715.0,15.0,No
+14,Laiba,22.0,Female,"Street 93, City 32",038-16217295,Yearly,2024-08-23,2025-06-29,Treadmill,37,597.0,1219.0,17.0,No
+15,Saeed Mchboob,27.0,Male,"Street 162, City 30",037-54758885,Monthly,2022-10-26,2023-01-16,Treadmill,31,,7611.0,19.0,No
+16,Laraib,49.0,Female,"Street 8, City 38",033-94385113,Quarterly,2024-01-12,2024-03-02,Treadmill,86,542.0,11803.0,20.0,No
+17,Usman (Bekhri),29.0,Male,"Street 129, City 21",034-34590569,Yearly,2024-08-23,2025-03-26,Pull-ups,34,413.0,8705.0,15.0,No
+18,Sidra,36.0,Female,"Street 109, City 12",034-40740608,Yearly,2022-03-10,2023-02-25,Squats,76,376.0,10650.0,21.0,No
+19,Amcer Taimoor,45.0,Male,"Street 134, City 35",033-80815106,Yearly,2024-07-10,2024-08-19,Deadlift,112,508.0,2638.0,12.0,No
+20,Aiman,28.0,Female,"Street 196, City 24",038-70105097,Quarterly,2023-12-30,2024-11-01,Squats,44,371.0,18888.0,17.0,No
+21,Lubna,34.0,Female,"Street 69, City 5",030-11813198,Monthly,2024-01-24,2024-08-05,Cycling,43,,14348.0,24.0,No
+22,Humayun Shahzad,39.0,Male,"Street 73, City 45",037-97524932,Yearly,2023-03-14,2024-04-04,Treadmill,58,453.0,7257.0,23.0,No
+23,Aena,20.0,Female,"Street 63, City 26",032-48189951,Yearly,2024-04-29,2024-07-30,Pull-ups,47,625.0,8994.0,24.0,No
+24,Isfahan,27.0,Male,"Street 19, City 23",032-32918100,Yearly,2022-10-20,2023-04-25,Squats,49,613.0,2699.0,17.0,No
+25,Shehnaz,,Female,"Street 182, City 19",035-72876504,Quarterly,2024-05-26,2025-05-22,Squats,30,256.0,1009.0,18.0,No
+26,Qasim Mughal,39.0,Male,"Street 80, City 31",039-33836588,Quarterly,2023-06-05,2023-12-05,Deadlift,114,574.0,,24.0,No
+27,Alisha,25.0,Female,"Street 8, City 31",038-13399871,Monthly,2024-05-13,2024-12-11,Pull-ups,71,518.0,12361.0,14.0,No
+28,Adeel Abbas,29.0,Male,"Street 152, City 49",030-52574922,Quarterly,2023-03-31,2023-07-14,Cycling,109,496.0,11567.0,24.0,No
+29,Daim,29.0,Male,"Street 199, City 50",035-19078725,Quarterly,2023-11-08,2024-06-30,Treadmill,33,492.0,17359.0,20.0,No
+30,M.Fahad,27.0,Male,"Street 181, City 11",039-29595503,Monthly,2022-03-05,2022-07-08,Treadmill,91,469.0,16623.0,14.0,No
+31,Fozia,51.0,Female,"Street 12, City 48",035-56825555,Monthly,2024-07-17,2025-02-22,Treadmill,113,748.0,14093.0,7.0,Yes
+32,Kamran Abbas,,Male,"Street 17, City 3",032-94062517,Quarterly,2022-04-24,2022-11-28,Cycling,109,,8684.0,10.0,No
+33,Kanwal,,Female,"Street 157, City 43",039-47145814,Monthly,2024-08-19,2024-10-04,Bench Press,33,,8167.0,19.0,No
+34,Ali Hassan,54.0,Male,"Street 113, City 43",035-21635078,Quarterly,2022-10-01,2022-10-14,Squats,80,374.0,9252.0,10.0,No
+35,M. Hamza,39.0,Male,"Street 109, City 10",033-58870817,Monthly,2023-08-15,2024-01-05,Squats,78,505.0,14494.0,4.0,Yes
+36,Azan Butt,47.0,Male,"Street 133, City 2",030-63110384,Monthly,2024-03-02,2025-01-15,Bench Press,53,377.0,7281.0,6.0,Yes
+37,Tayyaba,53.0,Female,"Street 44, City 3",033-95371833,Monthly,2022-07-07,2023-01-11,Bench Press,104,529.0,2856.0,,Yes
+38,Zareen,44.0,Female,"Street 56, City 48",036-60643361,Monthly,2023-01-02,2023-05-04,Deadlift,82,575.0,,7.0,Yes
+39,Ayat,36.0,Female,"Street 129, City 10",032-88244697,Quarterly,2024-04-27,2024-11-08,Cycling,87,481.0,1182.0,20.0,No
+40,,51.0,Male,"Street 121, City 24",039-27958874,Monthly,2024-06-16,2025-01-11,Deadlift,89,261.0,12617.0,20.0,No
+41,Ali Hamza,43.0,Male,"Street 72, City 44",036-72528490,Monthly,2023-08-28,2024-01-02,Pull-ups,58,767.0,,19.0,No
+42,Ali Tanveer,44.0,Male,"Street 103, City 44",034-41755612,Yearly,2023-04-09,2023-04-11,Treadmill,37,474.0,14792.0,13.0,No
+43,Maryam,42.0,Female,"Street 68, City 37",033-48288721,Monthly,2024-06-26,2024-07-04,Deadlift,43,263.0,4829.0,24.0,No
+44,Aalia,50.0,Female,"Street 174, City 18",037-68223956,Monthly,2024-03-16,2025-03-10,Cycling,106,292.0,1258.0,13.0,No
+45,Zara,20.0,Female,"Street 135, City 37",037-87461250,Monthly,2023-03-03,2023-10-22,Deadlift,108,627.0,6447.0,21.0,No
+46,,,Male,"Street 168, City 49",034-34988026,Quarterly,2022-01-21,2022-08-13,Treadmill,74,209.0,,6.0,Yes
+47,Khadija,34.0,Female,"Street 179, City 7",031-16947972,Quarterly,2022-10-22,2023-09-04,Pull-ups,53,590.0,8915.0,14.0,No
+48,Fatima,54.0,Female,"Street 12, City 47",031-85693345,Quarterly,2023-01-20,2023-10-16,Treadmill,55,,2931.0,6.0,Yes
+49,,43.0,Male,"Street 18, City 4",031-42777146,Yearly,2023-12-29,2025-01-22,Squats,95,315.0,15124.0,8.0,No
+50,Asma,28.0,Female,"Street 38, City 16",030-87160643,Yearly,2024-07-17,2024-08-04,Squats,71,496.0,2584.0,23.0,No
+51,Uzma,41.0,Female,"Street 134, City 46",039-89738239,Monthly,2022-10-08,2023-11-11,Bench Press,30,471.0,8191.0,6.0,Yes
+52,Nadia,43.0,Female,"Street 101, City 35",034-65816212,Monthly,2022-05-14,2022-07-19,Treadmill,78,390.0,15221.0,11.0,No
+53,Bilal Ahmed,,Male,"Street 48, City 46",034-99455555,Monthly,2022-07-18,2022-09-07,Bench Press,57,323.0,9151.0,11.0,No
+54,,33.0,Male,"Street 194, City 45",039-55839493,Monthly,2022-01-11,2022-10-04,Squats,80,448.0,11018.0,16.0,No
+55,Hafsa,35.0,Female,"Street 189, City 5",032-59816758,Quarterly,2024-09-01,2025-02-13,Squats,117,274.0,19081.0,12.0,No
+56,Kanzal Hussain,45.0,Male,"Street 181, City 25",034-69490737,Monthly,2022-08-22,2022-10-28,Deadlift,69,662.0,7106.0,16.0,No
+57,Bilal Abbas,53.0,Male,"Street 159, City 4",039-10955353,Yearly,2022-05-13,2022-09-17,Deadlift,37,405.0,2467.0,23.0,No
+58,Rida,53.0,Female,"Street 194, City 30",034-69604210,Quarterly,,2025-02-22,Pull-ups,59,342.0,3849.0,7.0,Yes
+59,M-Umer,19.0,Male,"Street 69, City 7",035-17561563,Yearly,2022-06-08,2023-04-16,Pull-ups,61,642.0,15277.0,8.0,No
+60,Inaya,27.0,Female,"Street 23, City 39",039-39551220,Yearly,2024-06-15,2024-08-25,Treadmill,67,747.0,7605.0,14.0,No
+61,Afzal Hussain,46.0,Male,"Street 147, City 48",038-31542957,Quarterly,2024-08-03,2025-07-10,Squats,40,210.0,,24.0,No
+62,Naila,34.0,Female,"Street 197, City 9",035-24886790,Quarterly,2024-02-24,2024-09-07,Treadmill,50,638.0,16445.0,4.0,Yes
+63,Hammad Zameer,47.0,Male,"Street 94, City 17",031-74439219,Monthly,2024-07-18,2025-02-06,Deadlift,84,236.0,11728.0,7.0,Yes
+64,,23.0,Male,"Street 4, City 6",035-76056978,Yearly,2023-11-17,2024-11-01,Deadlift,77,297.0,7523.0,19.0,No
+65,Kiran,53.0,Female,"Street 40, City 42",030-46019635,Monthly,2022-04-06,2022-11-12,Treadmill,54,754.0,18418.0,12.0,No
+66,Saad Ali,53.0,Male,"Street 42, City 4",037-27967661,Quarterly,2022-07-08,2022-07-27,Deadlift,104,404.0,5576.0,7.0,Yes
+67,Jawaria,52.0,Female,"Street 190, City 39",031-73024063,Monthly,2024-09-02,2024-10-29,Pull-ups,33,332.0,1810.0,16.0,No
+68,Farah,50.0,Female,"Street 105, City 39",036-13395965,Monthly,2024-05-22,2025-03-13,Cycling,93,267.0,13698.0,15.0,No
+69,Fareeha,27.0,Female,"Street 4, City 8",033-17774016,Quarterly,2024-07-12,2024-09-22,Deadlift,81,546.0,3042.0,4.0,Yes
+70,Hassan Ali,25.0,Male,"Street 147, City 41",036-49590465,Yearly,2023-08-29,2023-11-09,Cycling,53,773.0,6991.0,19.0,No
+71,Qazi Umais.,23.0,Male,"Street 154, City 14",032-77656665,Quarterly,2024-06-21,2025-02-16,Bench Press,108,702.0,1552.0,10.0,No
+72,M. Ehsan.,48.0,Male,"Street 46, City 33",035-28880027,Monthly,2024-02-12,2024-09-25,Bench Press,68,322.0,,,No
+73,Faheem Ashraf,18.0,Male,"Street 91, City 42",035-60835779,Yearly,2024-04-13,2024-11-08,Pull-ups,84,569.0,19104.0,,No
+74,Eshal,36.0,Female,"Street 60, City 35",035-45182059,Monthly,2024-07-14,2025-07-05,Deadlift,33,596.0,7349.0,21.0,No
+75,M. Tayyab,22.0,Male,"Street 179, City 50",031-27216140,Monthly,2023-12-31,2024-09-24,Pull-ups,60,,15660.0,24.0,No
+76,Bisma,24.0,Female,"Street 81, City 2",039-43329510,Quarterly,2022-08-23,2023-09-24,Deadlift,40,628.0,11222.0,20.0,No
+77,,49.0,Male,"Street 34, City 17",030-74120944,Quarterly,2023-01-14,2023-06-24,Squats,58,773.0,9917.0,12.0,No
+78,Adeena,,Female,"Street 126, City 23",031-13205703,Monthly,2023-06-18,2023-10-03,Bench Press,61,632.0,1492.0,5.0,Yes
+79,Aneesa,40.0,Female,"Street 135, City 34",031-38491849,Monthly,2022-07-30,2023-08-19,Cycling,104,533.0,12023.0,22.0,No
+80,Batool,21.0,Female,"Street 61, City 33",031-58482743,Quarterly,2024-02-07,2024-03-28,Treadmill,113,266.0,7845.0,19.0,No
+81,Daniya,19.0,Female,"Street 49, City 36",032-53713092,Monthly,2023-04-23,2024-04-19,Bench Press,92,359.0,11730.0,18.0,No
+82,Dr Mustafa,39.0,Male,"Street 42, City 8",038-17556723,Quarterly,2023-07-16,2024-05-18,Squats,90,504.0,1807.0,23.0,No
+83,Malik Mohsin,38.0,Male,"Street 71, City 25",034-84545048,Quarterly,2024-03-15,2024-03-18,Squats,83,229.0,10784.0,18.0,No
+84,Farah,40.0,Female,"Street 139, City 46",038-25232035,Monthly,2023-04-21,2024-01-13,Treadmill,109,486.0,1763.0,22.0,No
+85,Noman Butt,32.0,Male,"Street 193, City 26",031-12951634,Yearly,2022-03-06,2022-09-28,Deadlift,79,723.0,11345.0,7.0,Yes
+86,Ghania,47.0,Female,"Street 195, City 5",032-17729119,Monthly,2023-02-24,2023-09-19,Squats,115,662.0,9770.0,18.0,No
+87,Noman Tariq.,,Male,"Street 114, City 25",035-90302205,Monthly,,2023-02-20,Squats,72,,8466.0,20.0,No
+88,,18.0,Male,"Street 171, City 42",031-79620582,Quarterly,2024-04-02,2024-05-01,Cycling,78,426.0,15251.0,23.0,No
+89,Zohaib Raza,33.0,Male,"Street 135, City 12",033-30399413,Monthly,2023-04-29,2023-12-05,Bench Press,69,690.0,4757.0,11.0,No
+90,Habiba,19.0,Female,"Street 153, City 21",034-87657970,Monthly,2022-08-10,2023-03-03,Deadlift,51,353.0,9583.0,14.0,No
+91,Hajra,37.0,Female,"Street 62, City 23",030-15701639,Monthly,,2023-08-07,Pull-ups,114,268.0,9945.0,6.0,Yes
+92,Jannat,19.0,Female,"Street 43, City 44",031-73703819,Yearly,2024-01-16,2024-04-13,Cycling,30,417.0,11086.0,,No
+93,Imaan,32.0,Female,"Street 153, City 16",030-77026714,Monthly,2022-02-25,2022-10-10,Deadlift,97,365.0,13503.0,16.0,No
+94,Izza,18.0,Female,"Street 77, City 36",036-65308203,Monthly,2024-05-28,2024-06-18,Pull-ups,78,568.0,10316.0,23.0,No
+95,Ayeza,43.0,Female,"Street 92, City 21",036-48690892,Quarterly,2022-04-26,2022-11-26,Pull-ups,110,214.0,14834.0,4.0,Yes
+96,Sara,50.0,Female,"Street 28, City 40",036-62178945,Yearly,,2023-08-08,Squats,119,503.0,,,No
+97,Sajjal,45.0,Female,"Street 110, City 30",036-34035954,Quarterly,2024-01-27,2024-11-03,Bench Press,103,267.0,15781.0,18.0,No
+98,Mahira,29.0,Female,"Street 124, City 23",039-19044862,Yearly,,2022-05-17,Treadmill,82,580.0,9391.0,11.0,No
+99,Jamila,,Female,"Street 82, City 35",037-75353714,Monthly,2022-05-10,2022-12-07,Treadmill,61,372.0,5239.0,12.0,No
+100,Kalsoom,30.0,Female,"Street 105, City 3",036-30750907,Monthly,2022-10-10,2023-06-28,Bench Press,62,415.0,8625.0,24.0,No
+101,,41.0,Male,"Street 143, City 17",036-67082340,Quarterly,2023-11-13,2024-02-09,Deadlift,65,308.0,10377.0,20.0,No
+102,Saim (small),46.0,Male,"Street 37, City 9",039-10174021,Yearly,,2024-10-08,Pull-ups,30,617.0,2805.0,7.0,Yes
+103,Kanwal,,Female,"Street 69, City 46",035-36522672,Monthly,2022-12-11,2023-01-18,Bench Press,75,718.0,3067.0,18.0,No
+104,Kiswa,,Female,"Street 102, City 26",038-80018001,Monthly,2023-11-10,2023-12-21,Treadmill,108,666.0,2446.0,,No
+105,Qazi Iqbal,31.0,Male,"Street 171, City 41",032-91623688,Yearly,2023-02-16,2023-12-22,Deadlift,79,560.0,4894.0,20.0,No
+106,,18.0,Male,"Street 139, City 27",037-34217725,Monthly,2022-08-30,2023-01-13,Treadmill,67,279.0,17594.0,4.0,Yes
+107,Hanan,27.0,Male,"Street 121, City 1",037-43371871,Quarterly,2022-03-30,2022-07-04,Bench Press,46,550.0,8663.0,16.0,No
+108,Khaula,23.0,Female,"Street 15, City 18",036-76601549,Yearly,2024-05-25,2025-02-04,Pull-ups,51,779.0,4370.0,5.0,Yes
+109,Dr Ehtesham,50.0,Male,"Street 72, City 14",033-27042598,Monthly,2022-09-18,2022-10-06,Squats,68,663.0,8518.0,14.0,No
+110,Shaista,22.0,Female,"Street 200, City 46",036-61063548,Quarterly,2022-03-25,2023-04-23,Deadlift,84,230.0,11089.0,11.0,No
+111,,53.0,Male,"Street 24, City 42",036-63521451,Monthly,2024-06-21,2024-08-20,Pull-ups,35,706.0,8630.0,6.0,Yes
+112,Laraib,23.0,Female,"Street 33, City 5",034-66899682,Monthly,2023-03-05,2023-10-23,Bench Press,48,778.0,8427.0,11.0,No
+113,,18.0,Male,"Street 156, City 11",037-81173028,Monthly,2023-03-05,2023-03-12,Pull-ups,41,341.0,14587.0,4.0,Yes
+114,,46.0,Male,"Street 101, City 34",037-49439130,Monthly,2023-12-30,2024-10-09,Squats,112,628.0,8146.0,16.0,No
+115,Noor,,Female,"Street 100, City 41",037-18988762,Monthly,2024-02-18,2024-03-31,Pull-ups,69,703.0,10833.0,5.0,Yes
+116,,20.0,Female,"Street 194, City 1",032-17982213,Monthly,2022-01-09,2022-03-20,Cycling,74,349.0,11214.0,17.0,No
+117,Ahsan,39.0,Male,"Street 19, City 14",031-30456769,Quarterly,2023-02-16,2023-02-27,Pull-ups,83,788.0,13919.0,7.0,Yes
+118,Jamila,52.0,Female,"Street 9, City 28",035-33595674,Monthly,2024-04-20,2025-03-13,Treadmill,54,689.0,5379.0,12.0,No
+119,Nadia,50.0,Female,"Street 181, City 33",038-43263522,Monthly,,2024-04-18,Bench Press,59,465.0,4464.0,11.0,No
+120,,,Male,"Street 105, City 34",034-62519214,Monthly,2023-07-28,2023-08-16,Bench Press,56,537.0,9866.0,20.0,No
+121,Jack,23.0,Male,"Street 175, City 42",033-79575279,Quarterly,2023-10-05,2024-08-05,Squats,61,293.0,5895.0,10.0,No
+122,Qamar,52.0,Female,"Street 120, City 4",035-72562528,Yearly,2023-09-29,2023-09-29,Bench Press,98,432.0,18560.0,12.0,No
+123,,39.0,Female,"Street 124, City 19",034-99262126,Yearly,2023-08-03,2024-05-18,Treadmill,106,600.0,8107.0,,Yes
+124,Sakina,52.0,Female,"Street 87, City 40",032-62053752,Monthly,,2022-09-23,Pull-ups,41,249.0,13617.0,21.0,No
+125,,48.0,Female,"Street 1, City 37",032-34430884,Monthly,2023-03-17,2024-02-12,Treadmill,118,420.0,4384.0,,Yes
+126,,21.0,Female,"Street 101, City 50",033-27834870,Monthly,2022-02-22,2022-12-04,Cycling,81,540.0,19712.0,7.0,Yes
+127,Thanos,27.0,Male,"Street 85, City 31",035-93558179,Monthly,2022-09-14,2023-05-23,Treadmill,95,244.0,,17.0,No
+128,Saiyadda,20.0,Female,"Street 31, City 31",037-87569032,Monthly,2023-05-27,2023-08-16,Treadmill,118,690.0,19722.0,,Yes
+129,,18.0,Male,"Street 5, City 16",038-14090350,Yearly,2023-08-18,2024-05-30,Pull-ups,115,478.0,17994.0,,Yes
+130,Salma,38.0,Female,"Street 115, City 44",039-58055968,Monthly,2024-03-03,2025-03-13,Deadlift,86,759.0,5972.0,7.0,Yes
+131,Vicky,33.0,Male,"Street 109, City 28",038-33295796,Monthly,,2024-08-24,Deadlift,65,769.0,10715.0,6.0,Yes
+132,,44.0,Male,"Street 130, City 14",030-97480114,Quarterly,2022-05-08,2022-10-21,Deadlift,74,246.0,3567.0,5.0,Yes
+133,Sam,39.0,Male,"Street 27, City 21",037-62021926,Yearly,2024-02-20,2024-12-26,Deadlift,101,652.0,12087.0,20.0,No
+134,Aizaz,48.0,Male,"Street 120, City 31",035-66695878,Quarterly,2024-04-13,2024-04-20,Deadlift,46,759.0,7158.0,24.0,No
+135,Tahira,37.0,Female,"Street 30, City 31",037-59279862,Monthly,2023-11-13,2024-07-08,Deadlift,41,267.0,18914.0,4.0,Yes
+136,Wafa,38.0,Female,"Street 124, City 35",039-89777642,Monthly,2023-01-17,2023-08-30,Deadlift,87,655.0,10515.0,,No
+137,Wajeeha,31.0,Female,"Street 127, City 16",032-45963245,Monthly,2023-10-28,2024-02-15,Pull-ups,98,682.0,14982.0,21.0,No
+138,,29.0,Male,"Street 6, City 35",031-80529451,Yearly,2024-08-31,2025-04-16,Pull-ups,74,502.0,8439.0,12.0,No
+139,Zainab,24.0,Female,"Street 27, City 44",034-98999212,Yearly,2023-09-01,2024-01-12,Cycling,69,257.0,15952.0,,No
+140,Kawish,40.0,Male,"Street 178, City 3",037-98890177,Monthly,2024-03-17,2024-07-09,Bench Press,110,601.0,9832.0,7.0,Yes
+141,,27.0,Male,"Street 72, City 39",031-88717607,Monthly,2024-09-23,2025-04-08,Deadlift,86,274.0,2346.0,8.0,No
+142,Tasneem,23.0,Female,"Street 61, City 38",038-39022969,Monthly,2022-11-24,2023-09-01,Bench Press,58,,2224.0,21.0,No
+143,Nawal,36.0,Female,"Street 199, City 21",037-27944764,Quarterly,2024-05-25,2025-05-15,Cycling,49,338.0,14846.0,18.0,No
+144,,18.0,Male,"Street 128, City 49",039-37003061,Yearly,2024-07-19,2024-10-06,Squats,113,538.0,10700.0,9.0,No
+145,Sajid,22.0,Male,"Street 161, City 7",039-30173428,Yearly,2023-04-25,2023-10-27,Squats,116,441.0,7013.0,6.0,Yes
+146,Mohammed,54.0,Male,"Street 2, City 15",036-24733357,Quarterly,2023-12-10,2024-04-27,Pull-ups,64,733.0,6082.0,14.0,No
+147,Haseena,45.0,Female,"Street 31, City 22",038-73797777,Monthly,2023-02-10,2023-04-02,Bench Press,95,641.0,7375.0,12.0,No
+148,Hassaan,54.0,Male,"Street 121, City 31",032-16612823,Quarterly,2023-03-27,2023-12-07,Deadlift,80,471.0,6138.0,14.0,No
+149,Najat,26.0,Female,"Street 190, City 9",034-49625944,Monthly,2023-05-05,2024-03-26,Bench Press,50,473.0,18336.0,4.0,Yes
+150,Nuha,43.0,Male,"Street 87, City 6",035-30033575,Yearly,2024-06-02,2025-05-22,Squats,78,608.0,12542.0,22.0,No
