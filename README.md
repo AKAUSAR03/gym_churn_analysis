@@ -93,7 +93,7 @@ The app expects `gym_members_dataset.csv` in the project folder, with at least a
 
 ## Author
 
-**NAME: ARSHIYA KAUSAR**
+**NAME:ARSHIYA KAUSAR**
 [GitHub](https://github.com/AKAUSAR03) 
 [LinkedIn](www.linkedin.com/in/arshiya-kausar-75a491335)
 
